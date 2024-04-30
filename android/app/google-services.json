@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "219461827377",
+    "project_id": "ussdapp-eaff0",
+    "storage_bucket": "ussdapp-eaff0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:219461827377:android:6e095c8e7c1731c75b0e10",
+        "android_client_info": {
+          "package_name": "com.example.ussd_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCB_vMBbN1WtK97EH6rkmvahmngAQ3jUj4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
